@@ -1,0 +1,11 @@
+dataset,generated_col,debug_col,status,n_rows,pearson_corr,spearman_corr,mae_0_100,top5_overlap
+historical,competency_disruption_management,proxy_disruption_management_latent,ok,250,0.6124,0.6447,14.45,0
+historical,competency_digital_transformation,proxy_digital_transformation_latent,ok,250,0.5793,0.5942,17.73,0
+historical,competency_operational_continuity,proxy_operational_continuity_latent,ok,250,0.711,0.6902,15.22,0
+historical,competency_leadership,proxy_leadership_latent,ok,250,0.4443,0.385,20.29,0
+historical,competency_bmw_context_fit,proxy_bmw_context_fit_latent,ok,250,0.2056,0.2023,21.19,0
+current,competency_disruption_management,proxy_disruption_management_latent,ok,30,0.3995,0.4875,22.83,1
+current,competency_digital_transformation,proxy_digital_transformation_latent,ok,30,0.6794,0.7134,20.37,2
+current,competency_operational_continuity,proxy_operational_continuity_latent,ok,30,0.6151,0.6006,17.97,2
+current,competency_leadership,proxy_leadership_latent,ok,30,0.1108,0.0653,30.09,0
+current,competency_bmw_context_fit,proxy_bmw_context_fit_latent,ok,30,0.0836,0.0954,28.72,0
