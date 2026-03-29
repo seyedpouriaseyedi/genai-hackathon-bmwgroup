@@ -1,2 +1,8 @@
 pandas
 numpy
+scikit-learn
+networkx
+dowhy
+scipy
+jupyterlab
+ipywidgets
