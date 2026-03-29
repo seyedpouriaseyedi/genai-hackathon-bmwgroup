@@ -4,5 +4,8 @@ scikit-learn
 networkx
 dowhy
 scipy
+fastapi
+uvicorn
+python-multipart
 jupyterlab
 ipywidgets
